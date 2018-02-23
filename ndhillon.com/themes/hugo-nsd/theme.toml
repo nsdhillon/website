@@ -1,0 +1,29 @@
+name = "Narinder"
+license = "MIT"
+licenselink = "https://github.com/nsdhillon/hugo-nsd/blob/master/LICENSE.md"
+description = "Create professional personal website"
+homepage = "https://github.com/nsdhillon/hugo-nsd"
+min_version = 0.1
+tags = ["portfolio",
+        "personal",
+        "blog",
+        "fast",
+        "minimal"
+        ]
+features = ["professional profile",
+            "publication system",
+            "projects",
+            "blog",
+            "teaching",
+            "contact",
+            "resume"]
+
+[author]
+  name = "Narinder Dhillon"
+  homepage = "https://ndhillon.com"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""

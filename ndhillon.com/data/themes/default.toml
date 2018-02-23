@@ -1,0 +1,20 @@
+# Theme metadata for ndhillon.com
+name = "Default"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#CB0A5E"
+primary_light = "#F6006B"
+primary_dark = "#B0034E"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#66052F"
+menu_text_active = "#CB0A5E"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
