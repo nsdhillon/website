@@ -1,6 +1,9 @@
 +++
-date = "2017-06-01"
+date = 2018-02-20T00:00:00  # Schedule page publish date.
+
 title = "Market Data API Workshop"
+time_start = 2030-06-14T13:00:00
+time_end = 2030-06-14T15:00:00
 abstract = "An Fixnetix Workshop on tools and methods for using the Market Access iXAPI"
 abstract_short = "Dive into tools and methods for integrating applications to receive Market Data"
 event = "iXAPI Workshop"
@@ -10,10 +13,18 @@ location = "Fixnetix Inc, Boston, Massachutsetts"
 selected = true
 math = true
 
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+projects = [""]
+
 url_pdf = ""
 # url_slides = "slides/blogdown-workshop-slides.html"
 url_slides = ""
 url_video = ""
+url_code = ""
+
 [[url_custom]]
     name = "GitHub"
     url = "https://github.com/nsdhillon/iXAPI_workshop"
