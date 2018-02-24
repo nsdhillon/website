@@ -1,0 +1,23 @@
+[build]
+publish = "public"
+command = "hugo -s ndhillon.com"
+
+[context.production.environment]
+HUGO_VERSION = "0.33"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.deploy-preview]
+command = "hugo -b $DEPLOY_PRIME_URL -s ndhillon.com"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.33"
+
+[context.branch-deploy]
+command = "hugo -b $DEPLOY_PRIME_URL -s ndhillon.com"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.33"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
