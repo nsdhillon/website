@@ -4,6 +4,9 @@ baseurl = "https://ndhillon.com/"
 title = "Narinder Dhillon"
 copyright = "&copy; 2018 Narinder Dhillon"
 
+# filesystem path to write files to
+publishDir = "docs"
+
 theme = "hugo-nsd"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -78,7 +81,7 @@ defaultContentLanguageInSubdir = false
   map = 2
   map_api_key = ""
 
-  # 99 Summer Street 
+  # 99 Summer Street
   latitude = "42.353531"
   longitude = "-71.058627"
   zoom = 15
@@ -144,7 +147,7 @@ defaultContentLanguageInSubdir = false
   #UseChroma = true
   #pygmentsCodeFences = true
   #pygmentsUseClasses = true
-  pygmentsStyle      = "emacs" # default is monokai see 
+  pygmentsStyle      = "emacs" # default is monokai see
 
 
   # Enable native social sharing buttons?
@@ -152,7 +155,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ["custom.css"] 
+  custom_css = ["custom.css"]
   custom_js  = []
 
   # Publication types.
@@ -213,7 +216,7 @@ defaultContentLanguageInSubdir = false
   #   google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
-  
+
   [[params.social]]
     icon = "paper-plane"
     icon_pack = "fa"
@@ -228,7 +231,7 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/nsdhillon"
-    
+
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
@@ -241,7 +244,7 @@ defaultContentLanguageInSubdir = false
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
   align_right = false
-  
+
 [[menu.main]]
   name = "Home"
   url = "#about"

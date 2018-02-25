@@ -1,0 +1,35 @@
+# hugo build folders for ndhillon.com
+docs/
+
+# MacOS ignored values
+# MacOSX General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# MacOSX Icon must end with two \r
+Icon
+
+
+# MacOSX Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# MacOSX Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# TortoiseGit ignores
+# Project-level settings
+/.tgitconfig
