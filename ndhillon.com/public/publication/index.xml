@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Narinder Dhillon</title>
+    <link>https://ndhillon.com/publication/</link>
+    <description>Recent content in Publications on Narinder Dhillon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Narinder Dhillon</copyright>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ndhillon.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Red Hat Enterprise Linux Network Performance Tuning Guide</title>
+      <link>https://ndhillon.com/publication/2015-rhel-network-tuning/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/publication/2015-rhel-network-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockstack: A New Internet for Decentralized Applications</title>
+      <link>https://ndhillon.com/publication/2017-blockstack/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/publication/2017-blockstack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

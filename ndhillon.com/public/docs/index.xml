@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Narinder Dhillon</title>
+    <link>https://ndhillon.com/docs/</link>
+    <description>Recent content in Documentation on Narinder Dhillon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Narinder Dhillon</copyright>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ndhillon.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customization</title>
+      <link>https://ndhillon.com/docs/customization/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/customization/</guid>
+      <description>It is possible to carry out many customizations without editing any code in the themes/hugo-nsd/ folder, making it easier to update the framework in the future.
+Menu The [[menu.main]] entries towards the bottom of config.toml define the navigation links at the top of the website. They can be added or removed as desired.
+To create a dropdown sub-menu, add identifier = &amp;quot;something&amp;quot; to the parent item and parent = &amp;quot;something&amp;quot; to the child item.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://ndhillon.com/docs/faq/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/faq/</guid>
+      <description>Common questions and answers will be listed here.</description>
+    </item>
+    
+    <item>
+      <title>Feedback &amp; Contributing</title>
+      <link>https://ndhillon.com/docs/contribute/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/contribute/</guid>
+      <description>Please use the issue tracker to report bugs or submit feature requests. Alternatively, feel free to modify the code and submit a pull request on Github.</description>
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>https://ndhillon.com/docs/front-matter/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/front-matter/</guid>
+      <description>Front matter allows page-specific variables to be included at the top of a Markdown file using TOML format, set between triple-plus +++ lines. The variables may include metadata such as page title, date published, author, categories, tags, and so on. Here is a simple example:
++++ date = 2018-02-20 title = &amp;quot;My first blog post&amp;quot; +++  Archetypes automate in the creation of Front matter.</description>
+    </item>
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://ndhillon.com/docs/get-started/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/get-started/</guid>
+      <description>This quick tutorial will show you how to setup and use Hugo-nsd.
+Core parameters The core parameters for the website can be edited in the config.toml configuration file:
+ Set baseurl to your website URL (we recommend GitHub Pages for free hosting) Set title to your desired website title such as your name The example Disqus commenting variable should be cleared (e.g. disqusShortname = &amp;quot;&amp;quot;) or set to your own Disqus shortname to enable commenting Edit your details under [params]; these will be displayed mainly in the homepage about and contact widgets (if used).</description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://ndhillon.com/docs/language/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/language/</guid>
+      <description>Both the interface and content language can be changed to suit your needs.
+Interface The Interface Language is used to change the language throughout your site. The following interface languages are currently available: English, 中文 (简体), Español, Português, Deutsch, Euskara, Français, Italiano, 한국어, Nederlands, Polski, Русский, Türkçe, and Tiếng Việt.
+The interface text is stored in language files which are collected in the themes themes/hugo-nsd/i18n/ folder, as well as an i18n/ folder at the root of your project.</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://ndhillon.com/docs/deployment/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/deployment/</guid>
+      <description>Sitescan be deployed in a large variety of ways due to the static nature of the generated website. The recommended deployment method alongside a few of the other most popular techniques are described below.
+If using Netlify, your site will be built automatically, otherwise run the hugo command in your terminal to generate your site in the public/ folder - now it is ready to copy across to your host.</description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>https://ndhillon.com/docs/update/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/update/</guid>
+      <description>If you installed by Git cloning hugo-nsd Before updating for the first time, the remote origin repository should be renamed to upstream:
+$ cd themes/hugo-nsd $ git remote rename origin upstream  To list available updates:
+$ cd themes/hugo-sd $ git fetch upstream $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master  Then, update by running:
+$ git pull upstream  Troubleshooting Check out the release notes for the version that you are updating to, paying attention to the breaking changes.</description>
+    </item>
+    
+    <item>
+      <title>Widgets</title>
+      <link>https://ndhillon.com/docs/widgets/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/widgets/</guid>
+      <description>Widgets empower you to fully customize your site. They display as sections on the homepage or on widget pages. They can be enabled/disabled and configured as desired. The default theme has the following widgets available to use:
+ About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Tag cloud Hero (introduction) Featurette (show features) Custom widget (add your own content!)  The parameters for each widget vary.</description>
+    </item>
+    
+    <item>
+      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
+      <link>https://ndhillon.com/docs/writing-markdown-latex/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/writing-markdown-latex/</guid>
+      <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Managing content</title>
+      <link>https://ndhillon.com/docs/managing-content/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Hugo framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://ndhillon.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install</title>
+      <link>https://ndhillon.com/docs/install/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/docs/install/</guid>
+      <description>You can choose from one of the following four methods to install:
+ one-click install using your web browser (recommended) install on your computer using Git with the Command Prompt/Terminal app install on your computer by downloading the ZIP files  </description>
+    </item>
+    
+  </channel>
+</rss>

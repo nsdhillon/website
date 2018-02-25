@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on Narinder Dhillon</title>
+    <link>https://ndhillon.com/resume/</link>
+    <description>Recent content in Resumes on Narinder Dhillon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Narinder Dhillon</copyright>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ndhillon.com/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DXC Fixnetix</title>
+      <link>https://ndhillon.com/resume/fixnetix/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/resume/fixnetix/</guid>
+      <description>2009 - Present Enterprise Architect/Lead Developer Market Data Systems  Conceptualize, design, develop and maintain iX-MDD (Market Data direct) system - a low latency linux kernel by-pass market data solution Conceptualize, design, develop and maintain iX-Bench system - benchmarking framework used to measure performance across a wide range of business workloads like feed handlers, data distribution, network I/O and event processing. Strategic design, implementation and management of high performance and extreme low latency solutions for several key Stock Exchanges based in Europe.</description>
+    </item>
+    
+    <item>
+      <title>Dow Jones Telerate, Inc.</title>
+      <link>https://ndhillon.com/resume/telerate/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/resume/telerate/</guid>
+      <description>1992 - 1998 Developer, Project Manager, Enterprise Architect Brought into Telerate to rebuild its technological capabilities, where the aim was to use this technology to compete against market dominant Reuters. Here my role was initially as a analyst/developer but evolved into working with cross functional teams and managing client projects in a fast-paced environment. This involved working for months at time in European financial centers in Zurich, Milan, Paris and Frankfurt.</description>
+    </item>
+    
+    <item>
+      <title>Market Systems Technology, Inc</title>
+      <link>https://ndhillon.com/resume/mst/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/resume/mst/</guid>
+      <description>2000 - 2009 Principle Software Architect/Lead Developer/Owner  Strategic design, implementation and management of high performance and extreme low latency solutions for several key Stock Exchanges based in the US and in Europe. Reported directly to firm ownership Managed the training and development of staff members to develop their skills and maintain state of the art knowledge in their of area responsibility. Acted creatively to facilitate complex business and technical needs, develops complex action plans and strategies, analyzes the impact of decisions, and mentored others through the solution process.</description>
+    </item>
+    
+    <item>
+      <title>Natwest Stockbrokers Limited</title>
+      <link>https://ndhillon.com/resume/natwest/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/resume/natwest/</guid>
+      <description>1998 - 2000 Consulting Software Architect/Developer  Analysis and design of an API for the Natwest Order Routing System using the application of an XML type definition to the Tibco Rendezvous software suite.
+ Prepare estimates and specifications for the development and maintenance of various aspects of the Natwest Order Routing System, written in PL/1 under VOS 12.4.0e.
+ Planning and implementation of changes for the LSE SETS system alignment</description>
+    </item>
+    
+    <item>
+      <title>UBS Phillips &amp; Drew</title>
+      <link>https://ndhillon.com/resume/ubs/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/resume/ubs/</guid>
+      <description>1988 - 1989 A paid internship over 12 months that allowed me join the UBS rotation program to try out a variety of roles where I gained a wide range of experience, and explored multiple opportunities. Started at a Bond trading desk as a junior using Excel and then due to my success was moved to extending a Bonds Analysis system (called Bonds Gemini) used by Bond dealers to provided real-time update of positions and limits so as to allow accurate risk monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Union Discount Company</title>
+      <link>https://ndhillon.com/resume/union-discount/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/resume/union-discount/</guid>
+      <description>1990 - 1992 Business Analyst / Developer  Using PL/1 developed various components of Stock, Bills, and Forward Rate Agreement (FRA) trading systems.
+ All aspects of design, code, and implementation of trading day reconciliation reports that summarized trading activity in terms of Profit/Loss and Cashbook for all Money Market instruments.
+ All aspects of design, code, and implementation of the Telepath Plus Facility to release payments into the Clearing House Automated Payments System (CHAPS).</description>
+    </item>
+    
+  </channel>
+</rss>

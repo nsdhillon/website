@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks &amp; Workshops on Narinder Dhillon</title>
+    <link>https://ndhillon.com/talk/</link>
+    <description>Recent content in Talks &amp; Workshops on Narinder Dhillon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Narinder Dhillon</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ndhillon.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Market Data API Workshop</title>
+      <link>https://ndhillon.com/talk/ixapi_workshop/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/talk/ixapi_workshop/</guid>
+      <description>The iXAPI is lightweight integration layer used to access Fixnetix&amp;rsquo;s Low Latency Market Data system. It enables users to develop high-performance, event driven applications with builtin monitoring and resilency.
+At its core iXAPI is designed to enable developers to write topic based publisher/subcriber messaging applications. Publishers send messages to a given topic, typically a string identifier such as &amp;ldquo;BNP&amp;rdquo;, without any knowledge of the recipients (subscribers). Subscribing applications create subscriptions on topics of interest and receive all messages from all publishers for that topic.</description>
+    </item>
+    
+  </channel>
+</rss>

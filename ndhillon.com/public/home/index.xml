@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Narinder Dhillon</title>
+    <link>https://ndhillon.com/home/</link>
+    <description>Recent content in Homes on Narinder Dhillon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Narinder Dhillon</copyright>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ndhillon.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ndhillon.com/home/about/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/home/about/</guid>
+      <description>About me Hi, I am Narinder,
+A technology entrepreneur, programmer and researcher.
+I am passionate for technology and innovation with more than 25 years of experience in creating leading edge software solutions for the financial and media sector companies such as UBS, NYSE, American Stock Exchange, Boston Stock Exchnage, Bluecrest Captial Management, and Dow Jones.
+In 2001, I partnered Market Systems Technology (MST), as a service software consultancy that focused on building and deploying low latency market data systems.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://ndhillon.com/home/resume/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/home/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research &amp; Projects</title>
+      <link>https://ndhillon.com/home/projects/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Workshops</title>
+      <link>https://ndhillon.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://ndhillon.com/home/posts/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles &amp; Publications</title>
+      <link>https://ndhillon.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://ndhillon.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ndhillon.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/home/teaching/</guid>
+      <description>Over my career I have mentored many developers, however the following courses were formalized:
+ Programming: Migrating from PL/1 to C for Software Engineers
+ Operating Systems: Introduction of UNIX/Linux operating systems. An exploration of basic commands, utilities, system structures and tools for Stratus VOS engineers.
+  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://ndhillon.com/home/tags/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ndhillon.com/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ndhillon.com/home/contact/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndhillon.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
