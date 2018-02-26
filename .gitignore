@@ -1,2 +1,8 @@
 # hugo build folders for ndhillon.com
 public_site
+
+# MacOS ignored values
+# MacOSX General
+.DS_Store
+.AppleDouble
+.LSOverride

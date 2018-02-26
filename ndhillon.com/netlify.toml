@@ -1,6 +1,6 @@
 [build]
-publish = "public"
-command = "hugo -s ndhillon.com"
+publish = "/ndhillon.com/public_site"
+command = "hugo -s ndhillon.com -v --cleanDestinationDir -d public_site"
 
 [context.production.environment]
 HUGO_VERSION = "0.33"
