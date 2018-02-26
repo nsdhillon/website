@@ -5,7 +5,7 @@ title = "Narinder Dhillon"
 copyright = "&copy; 2018 Narinder Dhillon"
 
 # filesystem path to write files to
-publishDir = "docs"
+publishDir = "public_site"
 
 theme = "hugo-nsd"
 enableEmoji = true
