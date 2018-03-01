@@ -15,7 +15,6 @@ summary = "A simple howto frame your markdown as based upon the Hugo BlackFriday
 image_preview = ""
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["markdown", "tests"]
 
 # Optional external URL for project (replaces project detail page).
@@ -42,8 +41,8 @@ Tables can be created by drawing them in the input using the below syntax: Examp
   Alice | 23
 
 
-### example fenced code 
-To insert code: you can use 3 or more backticks to mark the beginning of the block, and the same number to mark the end of the block. Output looks like: 
+### example fenced code
+To insert code: you can use 3 or more backticks to mark the beginning of the block, and the same number to mark the end of the block. Output looks like:
 
 ```md
 # Heading Level 1
@@ -52,7 +51,7 @@ Some test
 Some more test
 ```
 
-### strikethrough 
+### strikethrough
 hen enabled, text wrapped with two tildes will be crossed out.  
 Example: ~~crossed-out~~
 
@@ -76,7 +75,7 @@ class Foo:
 	def __init__(self, var):
 	self.var = var
 	self.run()
-		
+
 	def run(self):
 	RunForrestRun()  # run along!
 
@@ -84,10 +83,10 @@ class Foo:
 
 ### another markdown example highlighting 'C'
 
-```c 
+```c
 /**
  * Dynamic shared object example.
- * 
+ *
  * The function interfaces that are required for a dynamically registered shared
  * object have the ability to have transport connectivity from the IXMDD layer.
  *
@@ -100,10 +99,10 @@ class Foo:
 #include <fstream>
 #include <string>
 #include <cstring>
-#include <sstream> // ostringstream 
+#include <sstream> // ostringstream
 #include <iomanip> /* setw */
 
-extern "C" { 
+extern "C" {
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -116,7 +115,7 @@ extern "C" {
 
 #define timeval_to_float(tv_p) \
     ((double)(tv_p)->tv_sec + ((double)(tv_p)->tv_usec) / 1000000L)
-    
+
 #define	timeval_sub(xtv, ytv, ztv) do { 	      \
     (ztv)->tv_sec = (xtv)->tv_sec - (ytv)->tv_sec;    \
     (ztv)->tv_usec = (xtv)->tv_usec - (ytv)->tv_usec; \
@@ -132,7 +131,7 @@ std::string out_us = "\n";
 int padding = 20;
 
 void cme_dump_packet_type (int packet_type) {
-  
+
 ```
 
 
@@ -153,12 +152,12 @@ Pencil sketch of `Narinder` - here the image link text not displayed
 
 ### inserting an alert at note level
 {{% alert note %}}
-This is an alert note that sends you [home](https://www.ndhillon.com). 
+This is an alert note that sends you [home](https://www.ndhillon.com).
 {{% /alert %}}
 
 ### inserting an alert at warning level
 {{% alert warning %}}
-This is an alert warning that sends you [home](https://www.ndhillon.com). 
+This is an alert warning that sends you [home](https://www.ndhillon.com).
 {{% /alert %}}
 
 ### some bullets
@@ -177,7 +176,7 @@ These are bullets.
 
 If you want to include an image the recommended method is to:
 
-1. Add the image to your `/static/img/` folder, then 
+1. Add the image to your `/static/img/` folder, then
 2. Reference the image using the relative file path as follows:
 
 ```
@@ -214,7 +213,7 @@ By default using [Formspree](https://formspree.io) to make a contact form, which
 
 
 <!-- commented out using HTML comment
-### You can insert gif's 
+### You can insert gif's
 
 <iframe src="https://media.giphy.com/media/Y5GeL3y4uAYjS/giphy.gif" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://media.giphy.com/media/Y5GeL3y4uAYjS/giphy.gif">via GIPHY</a></p>
 

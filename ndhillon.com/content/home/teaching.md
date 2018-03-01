@@ -20,5 +20,3 @@ Over my career I have mentored many developers, however the following courses we
 - Programming: Migrating from PL/1 to C for Software Engineers
 
 - Operating Systems: Introduction of UNIX/Linux operating systems. An exploration of basic commands, utilities, system structures and tools for Stratus VOS engineers.
-
-

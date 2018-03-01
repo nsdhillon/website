@@ -285,10 +285,10 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 8
 
-[[menu.main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 10
+#[[menu.main]]
+#  name = "Docs"
+#  url = "docs/"
+#  weight = 10
 
 # Documentation menu.
 

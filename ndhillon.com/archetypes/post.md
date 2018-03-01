@@ -1,10 +1,14 @@
 +++
 # This is the frontmatter on all post when you create using:
 #  hugo new post/test.md
-
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 draft = false
+
+# Post title.
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+
+# Project summary to display on homepage.
+summary = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
