@@ -30,7 +30,7 @@ caption = ""
 ## Introduction
 In its simplest form `hashing` is generation of a value or values from a string of text using a mathematical function. So we also refer to it as a hash function that maps data of arbitrary size to data of fixed size.
 
-It by the definition and implementation is generally regarded as Pseudo Random Number Generators (PRNG). 
+It by the definition and implementation is generally regarded as Pseudo Random Number Generators (PRNG).
 
 ## Properties
 
@@ -64,15 +64,18 @@ It is often desirable that the output of a hash function have fixed size. Produc
 Simplest and often used in area of data storage where it forms the basis if indexing into hash tables.
 
 ### 2. Cryptographic Hashing
-A special class of hash function that has certain properties which make it suitable for use in cryptography. It is a mathematical algorithm that maps data of arbitrary size to a bit string of a fixed size (a hash) and is designed to be a one-way function, that is, a function which is infeasible to invert. The input data is often called the message, and the output (the hash value or hash) is often called the message digest or simply the digest. 
+A special class of hash function that has certain properties which make it suitable for use in cryptography. It is a mathematical algorithm that maps data of arbitrary size to a bit string of a fixed size (a hash) and is designed to be a one-way function, that is, a function which is infeasible to invert. The input data is often called the message, and the output (the hash value or hash) is often called the message digest or simply the digest.
 
-The ideal cryptographic hash function has five main properties:
+The ideal cryptographic hash function has following main properties:
 
 * it is deterministic so the same message always results in the same hash
 * it is quick to compute the hash value for any given message
 * it is infeasible to generate a message from its hash value except by trying all possible messages
 * a small change to a message should change the hash value so extensively that the new hash value appears uncorrelated with the old hash value
-* it is infeasible to find two different messages with the same hash value
+* collision resistance property - it is infeasible to find two different messages with the same hash value
+* its input can be any string of any size
+* it produces a fixed size output
+
 
 #### Usecases
 
@@ -98,5 +101,3 @@ A hashing technique developed in the field of computer vision for matching featu
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set. The price paid for this efficiency is that a Bloom filter is a probabilistic data structure: it tells us that the element either definitely is not in the set or may be in the set. Often it is coded as a bit-vector where a larger filter will have less false positives.
 
 Bloom filters are commonly found in applications such as spell-checkers, string matching algorithms, network packet analysis tools and network/internet caches.
-
-
