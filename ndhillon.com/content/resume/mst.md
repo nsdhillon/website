@@ -6,7 +6,7 @@ date = "2018-01-25"
 title = "Market Systems Technology, Inc"
 
 # Project summary to display on homepage.
-summary = "Joined Market Systems Technology as a partner to evolve the existing technology stack away from proprietary hardware technologies to more cost-effective commoditized stack. Here performance engineering pratices and were applied to the business, operations, development, testing and end users to create a new distributed Market data system written in ANSI C that was installed on the trading floors of the Pacific Stock Exchange, Boston Stock Exchange and the American Stock Exchange."
+summary = "Joined Market Systems Technology as a partner to evolve the existing technology stack away from proprietary hardware technologies to more cost-effective commoditized stack. Here performance engineering practices and were applied to the business, operations, development, testing and end users to create a new distributed Market data system written in ANSI C that was installed on the trading floors of the Pacific Stock Exchange, Boston Stock Exchange and the American Stock Exchange."
 
 
 # Optional image to display on homepage (relative to `static/img/` folder).
@@ -49,9 +49,9 @@ Various vendors, Red Hat Linux on 64-bit Intel based systems__
 
 ## Technology
 ### Programming languages
-* C 
-* C++ 
-* C# 
+* C
+* C++
+* C#
 * Java - Eclipse RCP
 * PL/1 - interfaces to new services
 
@@ -60,7 +60,7 @@ Various vendors, Red Hat Linux on 64-bit Intel based systems__
 * Market Access - high speed market data system with direct connectivity to all US market centers
 
 ## Company Background
-Market Systems Technology, Inc., formerly a division of Dow Jones and Co., has been a premium provider of ticker plant solutions for the financial services industry using the [Stratus Technologies](www.stratus.com) platform. 
+Market Systems Technology, Inc., formerly a division of Dow Jones and Co., has been a premium provider of ticker plant solutions for the financial services industry using the [Stratus Technologies](www.stratus.com) platform.
 
 ### Address
 Suite 1520  
@@ -70,5 +70,3 @@ United States
 
 Phone: +16177378530  
 Website: http://www.mktsystech.com
-
-

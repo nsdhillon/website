@@ -32,14 +32,14 @@ caption = ""
 ### Business Analyst / Developer
 
 * Using PL/1 developed various components of Stock, Bills, and Forward Rate Agreement (FRA) trading systems.
-	
+
 * All aspects of design, code, and implementation of trading day reconciliation reports that summarized trading activity in terms of Profit/Loss and Cashbook for all Money Market instruments.
-	
+
 * All aspects of design, code, and implementation of the Telepath Plus Facility to release payments into the Clearing House Automated Payments System (CHAPS).
-	
+
 * Users supported for Bills, CDs, and Stock trading.
 
-* Engagement with multiple business units and leaders across the enterprise to capture and document requirments.
+* Engagement with multiple business units and leaders across the enterprise to capture and document requirements.
 
 
 ## Hardware / Operating System
@@ -50,7 +50,7 @@ Stratus Computer, Inc. VOS on 32-bit XA2000
 * Command Macro Language (CML)
 
 ## Company Background
-The Union Discount Company of London was founded in 1885 as the leading Discount House operating in the London Money Markets. It was money dealer that participates in the buying and discounting of bills of exchange and other financial products such as money markets, certain government bonds and banker's acceptances. 
+The Union Discount Company of London was founded in 1885 as the leading Discount House operating in the London Money Markets. It was money dealer that participates in the buying and discounting of bills of exchange and other financial products such as money markets, certain government bonds and banker's acceptances.
 
 
 ### Address
@@ -59,5 +59,3 @@ London EC3V 3NU
 United Kingdom  
 
 Phone: +44716231020  
-
-

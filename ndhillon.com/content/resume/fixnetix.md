@@ -48,9 +48,9 @@ Oracle, Solaris on both 32-bit and 64-bit Intel based systems
 
 ## Technology
 ### Programming languages
-* C, 
-* C++ 
-* C# 
+* C,
+* C++
+* C#
 * Java
 * php
 * python
@@ -60,7 +60,7 @@ Oracle, Solaris on both 32-bit and 64-bit Intel based systems
 * Market Data Network (iX-MDN) - low latency messaging system that directly competed in functionality and speed against Tibco Rendezvous, Wombat Mamda, and 29 Wests LBM
 * Market Access (iX-MAX) - high speed market data system with direct connectivity to all US market centers and many European market centers
 * Fixnetix API (iX-API) - a lightweight uniform API  available in C, C++, Java and C# supporting many OS/Compiler combinations including 32 & 64-bit versions of Windows, Solaris, and Linux. This provides a mature abstraction layer that allows users to interface with a variety market centers without complexity
-* Benchmarking framework (iX-Bench) - an automated reporting framework executing tests measuring various business workloads within the capital markets 
+* Benchmarking framework (iX-Bench) - an automated reporting framework executing tests measuring various business workloads within the capital markets
 
 ## Company Background
 [Fixnetix](www.fixnetix.com), a DXC Technology company, provides market data, trading access, liquidity venue connectivity, pre-trade risk and execution management for Investment Banks, Hedge Funds and Proprietary Trading Firms globally. By facilitating low latency, resilient and secure trading, DXC Fixnetix enhances operational efficiencies for the world's electronic trading communities.
@@ -73,4 +73,3 @@ United States
 
 Phone: +16177378530  
 Website: http://www.fixnetix.com
-

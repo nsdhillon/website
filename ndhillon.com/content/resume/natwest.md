@@ -6,7 +6,7 @@ date = "2018-01-25"
 title = "Natwest Stockbrokers Limited"
 
 # Resume summary to display on homepage.
-summary = "Brought into Natwest Stockbrokers to solve latency problems within their Order routing system. Here I developed and performed optimization on the London Stock Exchange trading gateway. Additonally, in preparation for Y2K directed complete an audit of all exchange trading gateways."
+summary = "Brought into Natwest Stockbrokers to solve latency problems within their Order routing system. Here I developed and performed optimization on the London Stock Exchange trading gateway. Additionally, in preparation for Y2K directed complete an audit of all exchange trading gateways."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "NatWest_logo.png"
@@ -30,7 +30,7 @@ caption = ""
 ## 1998 - 2000
 ### Consulting Software Architect/Developer
 * Analysis and design of an API for the Natwest Order Routing System using the application of an XML type definition to the Tibco Rendezvous software suite.
-	
+
 * Prepare estimates and specifications for the development and maintenance of various aspects of the Natwest Order Routing System, written in PL/1 under VOS 12.4.0e.
 
 * Planning and implementation of changes for the LSE SETS system alignment
@@ -58,5 +58,3 @@ United Kingdom
 
 Phone: +441713755000  
 Website: www.natweststockbrokers.com
-
-
