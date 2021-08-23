@@ -31,7 +31,11 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-  
+
+[[filter]]
+  name = "Instinet"
+  tag = ".instinet"
+
 [[filter]]
   name = "DXC Fixnetix"
   tag = ".fixnetix"

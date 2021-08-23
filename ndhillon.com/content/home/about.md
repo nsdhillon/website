@@ -39,6 +39,6 @@ In 2001, I partnered with Market Systems Technology (MST), as a service software
 
 In 2009, due to our success in the low latency space MST was acquired by [DXC Fixnetix](http://www.fixnetix.com/). This led to the expansion of the Market data platform to include all European market centers. Both the Market Data platform and the messaging middleware platforms are targeted at customers as an alternative to both Reuters RDMS and Wombat MAMDA (now Vela) products.<br>
 
-Most recently at DXC Fixnetix I am the technical lead and designer of the high speed, low latency, globally distributed Market data platform. This requires an in-depth understanding of the business requirements and how these challenges can be met through rapid and agile development techniques with a focus on organizational goals to effectively link people, processes and technology.
+At DXC Fixnetix I was the technical lead and designer of the high speed, low latency, globally distributed Market data platform. This required an in-depth understanding of the business requirements and how these challenges can be met through rapid and agile development techniques with a focus on organizational goals to effectively link people, processes and technology.
 
 My research interests focus on developing more capable tools to reduce event latency by introducing better software algorithms and techniques to messaging infrastructures.
